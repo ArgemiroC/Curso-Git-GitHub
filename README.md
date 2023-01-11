@@ -18,3 +18,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 11](https://www.youtube.com/watch?v=bsI6P_IM_hg&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=11) Seu GitHub muito mais seguro<br>
 ### :film_strip: [Assistir Vídeo Aula 12](https://www.youtube.com/watch?v=xAOBQtSVI_k&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=12) Git Branches de forma fácil e com exemplo<br>
 ### :film_strip: [Assistir Vídeo Aula 13](https://www.youtube.com/watch?v=2Y0HXnYpn9E&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=13) Hospedagem Grátis no GitHub Pages<br>
+
+# :information_source: Referência de Sites
+[Baixar o Git](https://git-scm.com/)<br>
+[Baixar o GitHub Desktop](https://desktop.github.com/)<br>
+[GitHub](https://github.com/)<br>
